@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidHomework_2</string>
+    <string name="enter_number">Введите цифру</string>
+    <string name="operator">Введите оператор</string>
+    <string name="name">Name</string>
+    <string name="Button_change">=</string>
+    <string name="result">Результат</string>
+</resources>
